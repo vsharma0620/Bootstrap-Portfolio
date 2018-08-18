@@ -1,0 +1,13 @@
+body {
+    background-image: url("../images/upfeathers.png");
+
+}
+.col-6 {
+    font-size: larger;
+}
+.NavBar {
+    background-color: #4e4040
+}
+.article {
+ float: left;   
+}
