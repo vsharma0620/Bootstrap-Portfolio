@@ -6,8 +6,12 @@ body {
     font-size: larger;
 }
 .NavBar {
-    background-color: #4e4040
+    background-color: #4e4040;
 }
 .article {
  float: left;   
+}
+#footer{
+    position: fixed;
+    bottom: 0;
 }
